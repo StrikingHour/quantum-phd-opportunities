@@ -98,6 +98,14 @@ The dataset can eventually be used to study trends such as:
 - Publication requirements
 - PhD specialization requirements
 
+## 📊 Quantum Job Market Analysis
+
+We analyze collected job postings to identify frequently requested skills.
+
+See the latest analysis:
+
+👉 [Quantum Skill Trends](analysis/skills.md)
+
 ## Contributing
 
 Contributions are welcome.

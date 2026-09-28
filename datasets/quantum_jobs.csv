@@ -1,1 +1,3 @@
-year,company,position,type,research_area,location,remote,posted_date,deadline,status,python,cpp,qiskit,cirq,pennylane,qec,quantum_networking,quantum_ml,publication_required,job_url
+year,company,position,research_area,status,python,cpp,cuda,qiskit,cirq,pennylane,pytorch,tensorflow,jax,qec,quantum_networking,quantum_ml,job_url
+2026,NVIDIA,"PhD Research Intern Quantum Simulation and AI","Quantum Simulation",Open,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,https://jobs.nvidia.com/careers/job/893397756942
+2026,IBM,"Quantum Data Analyst Intern 2027","Quantum Data Analytics",Open,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,https://careers.ibm.com/en_US/careers/JobDetail/Quantum-Data-Analyst-Intern-2027/132431
