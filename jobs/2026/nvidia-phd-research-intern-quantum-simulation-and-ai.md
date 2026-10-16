@@ -12,9 +12,10 @@
 
 ## Dates
 
-**Posted:** September 23, 2026  
-**Application Date:** Applications accepted at least until September 27, 2026  
-**Status:** 🟢 Open — verify on official posting
+**Posted:** Originally recorded September 23, 2026; live page now shows a relative refreshed date.  
+**Application Date:** Applications accepted at least until October 16, 2026; this is a minimum application window, not a closing deadline.  
+**Status:** 🟢 Open — verified 2026-10-16; Apply button present  
+**Last verified:** 2026-10-16
 
 ## Compensation
 
@@ -121,7 +122,9 @@ Compensation depends on factors including location, year in school, degree, posi
 ## Application
 
 **Official Job Posting:**  
-https://jobs.nvidia.com/careers/job/893397756942
+https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004
+
+Original recorded URL: https://jobs.nvidia.com/careers/job/893397756942
 
 ## Skills to Track
 

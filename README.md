@@ -127,7 +127,9 @@ quantum_ml
 job_url
 ```
 
-Skills are currently recorded using `Yes` or `No`.
+Skills are currently recorded using `Yes` or `No`. `Yes` includes explicitly named preferred skills and alternatives; `No` means not established by the posting, not that the skill is unnecessary. Historical entries may retain earlier skill evidence when a live description cannot be read; see each job's verification note.
+
+`year` and `jobs/<year>/` record the collection year. The 2027 opportunities verified on October 16, 2026 remain under 2026. Fellowship and internship eligibility differ; consult the individual records. The dataset includes postdoctoral fellowships and broad research intakes as well as dedicated quantum internships.
 
 Example:
 

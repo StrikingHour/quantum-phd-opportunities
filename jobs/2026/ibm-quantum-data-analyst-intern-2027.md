@@ -19,7 +19,11 @@
 ## Dates
 
 **Posted:** September 18, 2026  
-**Status:** ⚪ Verify on official IBM posting
+**Status:** 🟢 Open — verified 2026-10-16; official page includes Apply now  
+**Last verified:** 2026-10-16  
+**Deadline:** Not stated in accessible official page
+
+Verification resolves the previous uncertain Markdown status; the CSV was already Open. The live page confirms title, job ID, locations and compensation. The embedded description was not accessible in this check, so historical skills and the explicitly unverified sponsorship note below are retained without claiming fresh confirmation.
 
 ## Compensation
 

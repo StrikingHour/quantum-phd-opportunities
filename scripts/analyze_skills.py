@@ -50,6 +50,9 @@ with open(output_file, "w", encoding="utf-8") as file:
 
     file.write(f"Jobs analyzed: {total_jobs}\n\n")
 
+    file.write("Scope: all recorded opportunities, including historical entries and postdoctoral fellowships; not an open-internship-only market sample.\n\n")
+    file.write("Yes includes named preferred skills and alternatives. No means not established by the posting, not unnecessary. Historical skills may be retained when current descriptions are inaccessible; see each job record.\n\n")
+
     file.write("| Skill | Jobs | Percentage |\n")
     file.write("| --- | ---: | ---: |\n")
 
