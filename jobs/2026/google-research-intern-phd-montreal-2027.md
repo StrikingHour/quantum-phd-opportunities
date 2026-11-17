@@ -11,7 +11,7 @@
 
 **Opportunity year:** 2027  
 **Recorded year:** 2026  
-**Last verified:** 2026-10-16  
+**Last verified:** 2026-11-17  
 **Status:** 🟢 Open  
 **Deadline:** February 26, 2027 anticipated; rolling review and may close earlier.
 
@@ -32,5 +32,4 @@ Yes means explicitly named, including preferred skills or alternatives; No means
 **Official posting:** https://www.google.com/about/careers/applications/jobs/results/131287072689267398-research-intern-phd-summer-2027?q=quantum&sort_by=date
 
 
-Verified against the live official posting on 2026-10-16. The official page invites applications for the 2027 cycle.
-
+Verified on 2026-11-17. Google Careers shows an Apply button and an anticipated February 26, 2027 end to rolling applications.

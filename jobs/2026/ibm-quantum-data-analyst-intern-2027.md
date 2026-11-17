@@ -19,11 +19,11 @@
 ## Dates
 
 **Posted:** September 18, 2026  
-**Status:** 🟢 Open — verified 2026-10-16; official page includes Apply now  
+**Status:** ⚪ Unknown  
 **Last verified:** 2026-10-16  
 **Deadline:** Not stated in accessible official page
 
-Verification resolves the previous uncertain Markdown status; the CSV was already Open. The live page confirms title, job ID, locations and compensation. The embedded description was not accessible in this check, so historical skills and the explicitly unverified sponsorship note below are retained without claiming fresh confirmation.
+Checked on 2026-11-17. The official IBM page requires JavaScript and current application availability could not be confirmed. A [third-party copy](https://www.ziprecruiter.com/c/ibm/Job/Quantum-Data-Analyst-Intern-2027/-in-New-York%2CNY?jid=5f01aecb406d951e) marks requisition 132431 expired. Skills and sponsorship information below are historical.
 
 ## Compensation
 

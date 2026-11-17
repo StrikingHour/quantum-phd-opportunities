@@ -14,8 +14,10 @@
 
 **Posted:** Originally recorded September 23, 2026; live page now shows a relative refreshed date.  
 **Application Date:** Applications accepted at least until October 16, 2026; this is a minimum application window, not a closing deadline.  
-**Status:** 🟢 Open — verified 2026-10-16; Apply button present  
+**Status:** ⚪ Unknown  
 **Last verified:** 2026-10-16
+
+Checked on 2026-11-17. Current application availability for JR2026004 could not be confirmed on NVIDIA Workday.
 
 ## Compensation
 

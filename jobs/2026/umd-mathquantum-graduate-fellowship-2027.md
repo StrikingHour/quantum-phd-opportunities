@@ -11,8 +11,8 @@
 
 **Opportunity year:** 2027  
 **Recorded year:** 2026  
-**Last verified:** 2026-10-16  
-**Status:** 🟢 Open  
+**Last verified:** 2026-11-17  
+**Status:** 🟡 Deadline approaching  
 **Deadline:** December 4, 2026.
 
 ## Research, qualifications and application
@@ -36,5 +36,4 @@ Yes means explicitly named, including preferred skills or alternatives; No means
 **Supporting official/application source:** https://mathquantum.umd.edu/faq/
 
 
-Verified against the live official posting on 2026-10-16. The official page invites applications for the 2027 cycle.
-
+Verified on 2026-11-17. The official graduate fellowship application page lists December 4, 2026 for Fall 2027.

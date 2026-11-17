@@ -1,6 +1,6 @@
 # Quantum Job Skill Trends
 
-Last updated: October 2026
+Last updated: November 2026
 
 Jobs analyzed: 7
 

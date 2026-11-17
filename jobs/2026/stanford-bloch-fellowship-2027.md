@@ -11,9 +11,9 @@
 
 **Opportunity year:** 2027  
 **Recorded year:** 2026  
-**Last verified:** 2026-10-16  
-**Status:** 🟡 Deadline approaching  
-**Deadline:** October 16, 2026 (today): full consideration including reference letters; page says open until this date. Cutoff time/timezone unspecified.
+**Last verified:** 2026-11-17  
+**Status:** 🔴 Closed  
+**Deadline:** November 16, 2026 (extended application deadline). October 16, 2026 was the full-consideration date, including reference letters.
 
 ## Research, qualifications and application
 
@@ -34,5 +34,4 @@ Yes means explicitly named, including preferred skills or alternatives; No means
 **Supporting official/application source:** https://academicjobsonline.org/ajo/jobs/32497
 
 
-Verified against the live official posting on 2026-10-16. The official page invites applications for the 2027 cycle.
-
+Verified on 2026-11-17. Academic Jobs Online posting #32497 lists the extended November 16 deadline, which has passed. Q-FARM’s program page still lists October 16.

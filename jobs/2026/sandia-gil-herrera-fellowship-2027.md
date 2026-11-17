@@ -11,7 +11,7 @@
 
 **Opportunity year:** 2027  
 **Recorded year:** 2026  
-**Last verified:** 2026-10-16  
+**Last verified:** 2026-11-17  
 **Status:** 🟢 Open  
 **Deadline:** December 31, 2026 for full consideration.
 
@@ -32,5 +32,4 @@ Yes means explicitly named, including preferred skills or alternatives; No means
 **Official posting:** https://www.sandia.gov/careers/careers/students-and-postdocs/fellowships/gil-herrera-fellowship-in-quantum-information-science/
 
 
-Verified against the live official posting on 2026-10-16. The official page invites applications for the 2027 cycle.
-
+Verified on 2026-11-17. Sandia’s fellowship page invites applications for job 699061 and gives December 31, 2026 as the full-consideration date.
